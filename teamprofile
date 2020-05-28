@@ -6,7 +6,7 @@
 
 <body>
 <h1><img src="Telkomplus.jpg" style="height:200px"></h1>
-
+<br><br>
 <h1>
     <div id="menuItem">
         <a href="index.html" style="color:black"><span class="menuItem">Home</span></a>
@@ -24,7 +24,7 @@
 <br><br><br>
 
 <h2>Team Profile</h2>
-<br><br>
+<br><br><br><br>
 
 <h3>Team Name</h3>
 <p>Telkom+ is our group name.</p>
@@ -33,27 +33,45 @@
 
 <h3>Personal Information</h3>
     <h4>Gerald Dwi Cipta</h4>
+    <br>
+    <img src="recentpicgerald.jpg" style="height:300px">
+    <br><br>
         <p>Hi! My name is Gerald Dwi Cipta. My student number is s3666265 and my email address is <a href="s3666265@student.rmit.edu.au">s3666265@student.rmit.edu.au</a>. Im an international student from Indonesia and currently studying in RMIT's finest Australian campus graduating in winter 2020. As for now, I'm only able to speak Indonesian, English, Chinese. I'm looking forward to learn French because I think that it is an interesting language to communicate with. I consider Racing is my main sport and my hobby. A really interesting fact about me is when i eat a pizza slice, i often leave the crust because I think that it just taste too doughy and i dislike it. My interest in IT includes designing the database architecture. When I was 15 years old, before I took this BP308 Business Information Systems, my elder brother showed me a couple of his projects, which included him putting his customer base for his phone application in a database using MySQL. In just one line of SQL, he could filter out his under 18 users, over 50 users and can see the demographic of his customer base when he needs to review his target market for the application. Me at that point of time not knowing anything about databases, I was amazed and keen to learn more about this database management systems, asked what course is available to learn more about this database and my study agent recommended me this BP308 course.</p>
     <br><br>
     
     <h4>John Usaraga</h4>
+    <br>
+    <img src="johnpic.png" style="height:300px">
+    <br><br>
         <p>Hello, My name is John Mikael Usaraga, but most people call me Mikey. I was born in Melbourne, Australia, however, my parents are both Filipino. At home, my parents communicate to me in Tagalog, but I can only understand what they are saying because I have trouble speaking it as English is my native language. I am currently studying the Bachelor of Information Technology at RMIT. My hobbies include playing video games, watching anime and playing sports such as badminton and basketball. I have been playing badminton for 5-6 years now, but I don't play it as frequently as I used to.</p>
     <br><br>
 
     <h4>Patrick Cruz</h4>
+    <br>
+    <img src="Picofme.jpg" style="height:300px">
+    <br><br>
         <p>Hello there, my name is Patrick Cruz and my studentID is s3657537. I am born in the Philippines but moved to Australia when I was young, so I do not recall much of Philippines. Online gaming is a heavy interest to me and being able to interact with people all over the world in different types of games are one of my main hobbies. </p> <p>My interest in IT came at a young age from playing on the computer for long enough that I wanted to know how they worked. With technology become more and more incorporated within our everyday lives, future developments in the career field I am pursuing may rely on such technologies. To be able to stay relevant in the required skill sets I believe that it is important to have a good understanding in the way the technology works and not just use it. </p> <p> My IT experience is a very lacklustre compared to some of my group members, and only consists of moderate knowledge of Microsoft office programs such as word, PowerPoint and Excel and the basic HTML that we have developed in tutorials </p> 
     <br><br>
 
     <h4>Nicholas Santosa</h4>
+    <br>
+    <img src="nickpic.jpeg" style="height:300px">
+    <br><br>
         <p>Hello, my name is Nicholas Christopher Santosa. My RMIT student id is s3844591 and my RMIT student email is <a href="s3844591@student.rmit.edu.au">s3844591@student.rmit.edu.au</a> I was born in New Zealand, Auckland on March 23rd, 2002, Saturday. From 2007 onwards I have been living in Melbourne and grew up in an Indonesian household. My first language is English and I&aposm somewhat fluent in Bahasa (Indonesian). I&aposm currently undertaking a Bachelor of Information Technology at RMIT and in my first year. I have finished school from Prep to Year 12. I went to Stella Maris in Point Cook for my Primary school and moved to Emmanuel College Notre Dame Campus from year 7 to 12. I have a pet dog. She&aposs a Labrador, her name is Nugget and has been in my family for two years. My main hobby is cars, more about JDM (Japanese Domestic Market) and modifying cars, but I also enjoy watching F1 and the overall understanding of how cars work. I also enjoy music and play the guitar, piano and have a passion for singing.</p>
     <br><br>
 
     <h4>Kelvin Huynh</h4>
+    <br>
+    <img src="KELRECENTPIC.png" style="height:300px">
+    <br><br>
         <p>Hi everyone! My name is Kelvin Huynh, my student number is s3854638 and my work e-mail is s3854638@student.rmit.edu.au. My nationality is a half Chinese and half Vietnamese. I speak a few of languages that includes English, Chinese and Teochew. An interesting fact about me is that I have worked in Target for about 3 years now as a casual.</p>
         <p>I have always been fascinated with technology. How electronics functions, how programs are built and how technology is involved every day. My interest in IT began when I started playing video games. I noticed that the games were running slower, which made me curious to find a solution to work out why these programs were slowing down. I chose to come to RMIT as I have heard that this university has a known reputation for great success in this course. During my studies I hope to learn more about programming and how technology functions.</p>
     <br><br>
 
     <h4>Tony Hou</h4>
+    <br>
+    <img src="TONYPIC.png" style="height:300px">
+    <br><br>
         <p>Hi there, I’m Tony Zhi-Lin Hou, student number is 3839825 and email address iss3839825@student.rmit.edu.au or officalhuatony@gmail.com. As for background information about myself, I am born and raised in Australia, but my family are from Taiwan. Last year, I graduated from Doncaster Secondary College and Doncaster Primary school in 2013. I have been an exchange student in china for a short period of time in 2016 and 2017. As for languages that I can speak, I can speak English, speak, and understand basic Chinese and somewhat understand Hokkien,</p>
             <p>A fun fact about myself is that I am really into gaming, mainly Nintendo games, like watch anime and reading manga. Recently, been really invested in watching Mix Martial Art fights, the television show “survivor” and playing a lot of chess with friends.</p>
             <p>An interest I have in IT is robotics and artificial intelligence and how that will drastically affect the lives of humans. Since IT is an constant ever-evolving field and how that will affect as well as help human life in the future, so I would like to use IT to better one’s life. Another interest I have in IT virtual reality as I believe the application of virtual reality can be applied to other fields such as the medical or education field. I do not remember when my interest in IT started it was always a thing, I felt passionate about. As for if there was a specific event or person that sparked my interest, it would be observing my family struggle with certain tasks. For example, my grandma is frail, so I would think of ways I could use IT to help benefit her life. I currently have no IT experience at all.</p>
