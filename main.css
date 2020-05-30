@@ -91,7 +91,7 @@ footer {
   
 table, td {
   border: 3px solid black;
-  font-family: Verdana;
+  font-family: helvetica;
   border-collapse: collapse;
   padding: 15px;
 }
