@@ -90,64 +90,105 @@
   </tr>
   <tr>
     <td>Week 1</td>
-    <td>•	Establish Project Idea – Home automation product which links to an application 
-•	Designate roles and assign duties for assignment
-•	Commence creating HTML Website Design via GitHub
-•	Commence drafting: Project Overview</td>
+    <td>
+        <ul>
+            <li>Establish Project Idea – Home automation product which links to an application</li>
+            <li>Designate roles and assign duties for assignment</li>
+            <li>Commence creating HTML Website Design via GitHub</li>
+            <li>Commence drafting: Project Overview</li>
+        </ul>
+    </td>
   </tr>
+
   <tr>
     <td>Week 2</td>
-    <td>•	Assign remaining duties to each member
-•	Upload current work into website</td>
+    <td>
+        <ul>
+            <li>Assign remaining duties to each member</li>
+            <li>Upload current work into website</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 3</td>
-    <td>•	Edit and finalize Website Design
-•	Group reflection – Discussion through meeting</td>
+    <td>
+        <ul>
+            <li>Edit and finalize Website Design</li>
+            <li>Group reflection – Discussion through meeting</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 4</td>
-    <td>•	Upload finalized answers into website
-•	Cross-check, edit and finalize project overview and description drafts
-•	Upload all .HTML and .CSS files into AWS 
-•	Establish new roles for the next phase of the Project: Prototyping and Testing</td>
+    <td>
+        <ul>
+            <li>Upload finalized answers into website</li>
+            <li>Cross-check, edit and finalize project overview and description drafts</li>
+            <li>Upload all .HTML and .CSS files into AWS</li>
+            <li>Establish new roles for the next phase of the Project: Prototyping and Testing</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 5</td>
-    <td>•	Establish new roles: Director, Project Manager, Editor, Designer Team and Developer Team
-•	Commence developing Prototype #1 (User Interface Design + # main features for application)
-•	Commence developing Prototype #1 (Product Design)</td>
+    <td>
+        <ul>
+            <li>Establish new roles: Director, Project Manager, Editor, Designer Team and Developer Team</li>
+            <li>Commence developing Prototype #1 (User Interface Design + # main features for application)</li>
+            <li>Commence developing Prototype #1 (Product Design)</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 6</td>
-    <td>•	Finish majority of User Interface Design and Product Design</td>
+    <td>
+        <ul>
+        <li>Finish majority of User Interface Design and Product Design</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 7</td>
-    <td>•	Test both Prototype #1’s and compile Feedback
-•	Commence developing Prototype #2 (Improving both Prototype #1’s and adding # features)</td>
+    <td>
+        <ul>
+            <li>Test both Prototype #1's and compile Feedback</li>
+            <li>Commence developing Prototype #2 (Improving both Prototype #1's and adding # features)</li>  
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 8</td>
-    <td>•	Test both Prototype #2’s and compile Feedback
-•	Commence developing Prototype #3 (Improving both Prototype #2’s)</td>
+    <td>
+        <ul>
+            <li>Test both Prototype #2's and compile Feedback</li>
+            <li>Commence developing Prototype #3 (Improving both Prototype #2's)</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 9</td>
-    <td>•	Test both Prototype #3’s and compile Feedback
-•	Edit and finalize both Prototype #3’s</td>
+    <td>
+        <ul>
+            <li>Test both Prototype #3's and compile Feedback</li>
+            <li>Edit and finalize both Prototype #3's</li>
+        </ul>
+    </td>
   </tr>
 
   <tr>
     <td>Week 10</td>
-    <td>•	Publish application and produce product</td>
+    <td>
+        <ul>
+            <li>Publish application and produce product</li>
+        </ul>
+    </td>
   </tr>
 
 </table>
